@@ -1,7 +1,7 @@
 {
   "name": "fitness",
   "private": true,
-  "homepage": "http://Storytellerds.github.io/gym-ts",
+  "homepage": "http://storytellerds.github.io/gym-ts",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
